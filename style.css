@@ -1,0 +1,16 @@
+img{
+  width: 500px;
+}
+body{
+     background-image: url(https://cdn140.picsart.com/316376116244201.jpg?type=webp&to=min&r=480);
+  background-position: center;
+  background-size: cover;
+}
+h1{
+font-size: 40px;
+ color: #0D47A1;
+}
+body{
+  font-weight: bold;
+  font-size: 20px;
+}
